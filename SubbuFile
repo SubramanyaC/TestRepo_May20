@@ -1,0 +1,1 @@
+string.valueof(c.phone).replace('(','').replace(')','').replace('-','').replace('+','').replace(' ','');
